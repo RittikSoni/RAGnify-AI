@@ -55,8 +55,8 @@ pip install fastapi uvicorn langchain-community langchain-huggingface langchain-
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-org/faq-chatbot.git
-   cd faq-chatbot
+   git clone https://github.com/RittikSoni/RAGnify-AI.git
+   cd RAGnify-AI
    ```
 
 2. **Index your data**  
