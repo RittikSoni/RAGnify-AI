@@ -1,0 +1,7 @@
+fastapi>=0.95.0
+uvicorn[standard]>=0.22.0
+langchain-community>=0.0.187
+langchain-huggingface>=0.0.187
+langchain-ollama>=0.0.113
+faiss-cpu>=1.7.4
+pydantic>=1.10.9
